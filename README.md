@@ -1,2 +1,2 @@
 # DemoDay
-"My Html and CSS project for demo day."
+"My HTML and CSS project for Demo day."
